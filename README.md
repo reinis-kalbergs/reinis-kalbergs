@@ -5,11 +5,11 @@ I am a Software Developer. Specializing in JAVA & Spring Boot, HTTP & Web API.
 
 ### A couple of previous projects:
 
+#### [Driving school](https://github.com/reinis-kalbergs/driving-school)
+
 #### [Flight planner](https://github.com/reinis-kalbergs/flight-planner)
 
 #### [Calculator](https://github.com/reinis-kalbergs/calculator)
-
-#### [Security](https://github.com/reinis-kalbergs/security-2023)
 
 #### [Apache camel](https://github.com/reinis-kalbergs/camel-task)
 
